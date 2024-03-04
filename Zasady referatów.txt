@@ -1,0 +1,32 @@
+Terminy: referat 1, 2, i 3 - na 18.03
+
+Referat 1 - SOLID
+
+- co to jest za skrót
+- wypisz te zasady SOLID
+- kto to wymyslił i kiedy
+- gdzie to spisał
+- po co to zrobił
+- jakie to miało / ma / będzie miało znaczenie w branży IT
+- czy te zasady się święte / czy można je łamać
+- czy dziś (2023-24) są one popularne
+- czy warto się ich uczyć np. czy pojawiają się na rozmowach rekrutacyjnych
+
+W referatach 2-6
+
+- co to za zasada (po polsku i angielsku), co oznacza, definicja
+- dlaczego jest ona w ogóle zasadą (dlaczego jest ważna i sensowna)
+- przykład kodu, który nie spełnia tej zasady
+- przykład poprawionego kodu (z góry), który już spełnia tę zasadę
+- wzorzec projektowy, który spełnia te zasadę i dlaczego
+- przykład kodu z życia (jakiś system, sklep internetowy, zamówienia, wypożyczalnia itp) gdzie zastosowana 
+  jest ta zasada (fragment kodu a nie całość)
+- podsumowanie zasady (opinie o jej użyteczności, dlaczego warto się do niej stosować, 
+  czy można ją czasem łamać, wpływ zasady na programowanie)
+
+Referat 2 - S (Single Responsible Principle)
+Referat 3 - O (Open Closed Principle)
+Referat 4 - L 
+Referat 5 - I
+Referat 6 - D
+
